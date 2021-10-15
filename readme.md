@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner.png)](https://muskan308.github.io/portfolio/portfolio.html)
+[![MasterHead](https://github.com/muskan308/muskan308/blob/main/banM.png)](https://muskan308.github.io/portfolio/portfolio.html)
 # Hi there, Muskan Thapa
 
 [![Website](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muskan308.github.io/portfolio/portfolio.html)
