@@ -1,0 +1,34 @@
+[![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner.png)](https://muskan308.github.io/portfolio/portfolio.html)
+# Hi there, Muskan Thapa
+
+[![Website](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muskan308.github.io/portfolio/portfolio.html)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
+
+
+
+## I'm a Learner, Developer, and Freelancer!!
+
+- 🌱 I’m currently learning everything 📺
+- 👯 I’m looking to collaborate with other content creators
+- 📺 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love dance
+
+## Connect with me:
+[![Instagram](https://img.shields.io/badge/muskan_thapa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_m.u_s_k_a.n_)  [![Website](https://img.shields.io/website?label=Muskan_Thapa&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muskan308.github.io/portfolio/portfolio.html/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
+
+
+
+## Languages and Tools:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+---
+## GitHub Stat
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=muskan308" alt="muskan308" /> </a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskan308&show_icons=true&locale=en" alt="muskan308" /></p>
+
+---
+
+
+[website]: https://muskan308.github.io/portfolio/portfolio.html
+[instagram]: https://instagram.com/_m.u_s_k_a.n_
+[linkedin]: https://www.linkedin.com/in/muskan-thapa-0864ab1b2
