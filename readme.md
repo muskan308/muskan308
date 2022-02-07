@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/muskan308/muskan308/blob/main/banM.png)](https://muskan308.github.io/portfolio/portfolio.html)
 # Hi there, Muskan Thapa
 
-[![Website](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muskan308.github.io/portfolio/portfolio.html)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/muskan771)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thapamuskan771/practice/)
