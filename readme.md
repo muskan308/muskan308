@@ -7,14 +7,13 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thapamuskan771/practice/)
   
 
-## I'm a Learner, Developer, and Freelancer!!
+## I'm a Learner and Developer !
 
-- 🌱 I’m currently learning everything 📺
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning new Technologies 📺
 - ⚡ Fun fact: I love dance
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/muskan_thapa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_m.u_s_k_a.n_)  [![Website](https://img.shields.io/website?label=Muskan_Thapa&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://muskan308.github.io/portfolio/portfolio.html/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
+[![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
 
 
 
