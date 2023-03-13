@@ -10,7 +10,7 @@
 ## I'm a Learner and Developer !
 
 - 🌱 I’m currently learning new Technologies 📺
-- ⚡ Fun fact: I love dance
+- ⚡ Fun fact: I love to dance
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-thapa-0864ab1b2)
